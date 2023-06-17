@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-classes-java.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-classes-kotlin.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-reports-tests.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-test-results.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task-build-tmp.main" target="15" />
+      <module name="Flashcards_(Kotlin).Flashcards__Kotlin_-task.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-Allowance_for_functions.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-copy___usage.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-equals___check.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-Illegal_to_override.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-Room_mystery.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-toString___modification.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Data_class-We_are_students.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Constructing_a_hierarchy.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Create_a_child_class.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Fix_bugs.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Keyword.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Statements_about_inheritance.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Inheritance-Woof.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-About_Mutable_Map.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-Correct_initialization.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-Exam_marks.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-Help_the_robot.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-New_user.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-Removing.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-The_output_of_two_maps.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Mutable_Map-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-Avoiding_an_NPE.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-Check_length.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-Elvis_throwing_exceptions.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-Safe_round.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-The__!!__operator.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Null_safety-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Assign_null.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Declare_null.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Line_length.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Mixed_nullable.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-NPE.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Null_or_not_null.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Nullable_variables.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Safe_call.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Nullable_and_non-nullable_types-What's_your_name.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Comprehension_of_overriding.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Correct_statements.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Fix_bugs.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Override_forget.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Override_the_candidate.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Overriding_functions-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Inheritance.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Latte.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Mochaccino.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Number_of_cups.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Tea.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-toString__-User_Information.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-Can_it_go_through.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-Reverse_me_if_you_can.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-String_length.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-String_or_Int.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-Super_super_type.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-The_correct_type_system_tree.main" target="15" />
+      <module name="Flashcards_(Kotlin).Topics-Type_system-Theory.main" target="15" />
+      <module name="Flashcards_(Kotlin).util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

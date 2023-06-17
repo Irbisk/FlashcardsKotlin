@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun isNumber(input: String) // write this function"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9697#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 15 Jun 2023 13:42:46 UTC"
+record: -1
+submission_language: kotlin

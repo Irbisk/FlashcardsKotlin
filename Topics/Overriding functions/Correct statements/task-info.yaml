@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: An overridden function can't invoke a function with the same name
+- text: A super keyword is needed for calling a function
+- text: Overriding is accessible only for open functions
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20484#comment
+status: Unchecked
+record: -1
+local_check: false
